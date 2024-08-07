@@ -3,7 +3,7 @@ import { Picker } from '@react-native-picker/picker';
 import { StyleSheet, Text, TextInput, TouchableOpacity, ScrollView, View } from 'react-native';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const apiKey = 'AIzaSyD03FIb588Cflel_qNLuk5teh8C7zfQygs';
+const apiKey = 'xxxxxxxxxxxxxxxxx';
 
 const genAI = new GoogleGenerativeAI(apiKey);
 
